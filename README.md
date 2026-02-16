@@ -165,6 +165,6 @@ End-to-end ML workflow
 
 👨‍💻 Author
 
-Rahul Pariary
+#Rahul Pariary
 Data Analyst | Aspiring Data Scientist
 Passionate about solving real-world problems using data and machine learning.
